@@ -35,9 +35,11 @@ support scalable applications. They are also known as Infrastructure-as-a-Servic
  Amazon EC2 - Amazon EC2 stands for Amazon Elastic Compute Cloud. 
 Provides virtual machines (VMs) with storage, memory, central processing 
 units (CPUs), and networking capabilities.
+
  Amazon Lambda -A cloud computing service that allows developers to 
 run code without managing servers. Allows users to run code without 
 managing or provisioning servers. 
+
  Amazon Elastic Kubernetes Service - A service that allows users to run 
 Kubernetes in AWS and on-premises data centres. It automates the 
 management of Kubernetes clusters. Allows users to manage and run their 
@@ -48,15 +50,18 @@ applications.
 ii. Storage & Content Delivery 
 These services handle scalable storage, data backup, and content delivery. Cloud￾based services that provide storage for data. These services are designed to be 
 reliable, scalable, and secure. 
+
  Amazon Elastic Block Store (EBS) - Amazon Elastic Block Store (EBS) is 
 a cloud-based storage service that allows users to create and manage 
 storage volumes for Amazon EC2 instances. These volumes can be used to 
 store files, install applications, and more. 
+
  Amazon Elastic File System (EFS) - Amazon Elastic File System (EFS) is 
 a cloud-based file storage service offered by Amazon Web Services (AWS) 
 that allows users to create and access shared file systems that can be easily 
 scaled up or down based on their needs, without the need to manage 
-underlying storage infrastructure. 
+underlying storage infrastructure.
+
  Amazon S3 - Amazon Simple Storage Service (S3) is a cloud storage 
 service that lets users store and access data online 
 
