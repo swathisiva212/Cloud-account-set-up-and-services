@@ -4,23 +4,28 @@ To create an AWS cloud account and explore its various services.
 1. Create an AWS Account
    
 ○ Go to AWS Official Website. 
+
 ○ Click on "Create an AWS Account" and enter the required details 
 (email, password, account name). 
+
 ○ Choose "Personal" or "Business" account type and provide billing 
 information. 
-○ Complete identity verification using a phone number. 
+
+○ Complete identity verification using a phone number.
+
 ○ Select a support plan (Free Tier recommended for beginners). 
+
 ○ Log in to the AWS Management Console.
  
 2. Exploring AWS Services 
  
 ○ Navigate through the AWS Management Console to explore 
 services. 
+
 ○ Access different categories such as Compute, Storage, Database, 
-Networking, and Security. 
-○ Experiment with services like EC2 (Elastic Compute Cloud), S3 
-(Simple Storage Service), and RDS (Relational Database Service) 
-using Free Tier options. 
+Networking, and Security.
+
+○ Experiment with services like EC2 (Elastic Compute Cloud), S3 (Simple Storage Service), and RDS (Relational Database Service) using Free Tier options. 
 ## AWS: 
 Amazon Web Services (AWS) is a cloud computing platform provided by 
 Amazon that offers a wide range of on-demand computing services. It allows 
@@ -72,9 +77,11 @@ NoSQL and data warehousing.
 databases. Supports MySQL, PostgreSQL, MariaDB, Oracle, SQL 
 Server, and Amazon Aurora. Is a Automatic backups, scaling, and 
 maintenance. 
+
 ● Amazon DynamoDB – Fully managed NoSQL database (key-value & 
 document store) High-speed, scalable apps like gaming, IoT, and real￾time analytics. Serverless, low latency, and auto-scales to handle traffic 
 spikes. 
+
 ● Amazon Redshift – Cloud data warehouse for analytics. Business 
 intelligence (BI), data analysis, and big data processing. High 
 performance, integrates with BI tools, cost-effective for large datasets. 
@@ -82,7 +89,9 @@ performance, integrates with BI tools, cost-effective for large datasets.
 iv. Developer & DevOps Tools: 
 Services for building, deploying, and managing applications. 
  AWS Code Commit – Managed Git repository. 
- AWS Code Build – Continuous integration for building applications. 
+
+ AWS Code Build – Continuous integration for building applications.
+
  AWS Code Deploy – Automates application deployment.
 
 v) Analytics & AI in AWS: 
@@ -91,19 +100,23 @@ for price performance and scale.
  AWS Glue – ETL (Extract, Transform, Load) Service - AWS Glue is a 
 serverless data integration service used for data extraction, transformation, 
 and loading (ETL). It automates data preparation for analytics and 
-machine learning. 
+machine learning.
+
  Amazon Kinesis – Real-time Data Streaming - Amazon Kinesis allows 
 businesses to collect, process, and analyse real-time data streams. It is 
 commonly used for log analytics, IoT data processing, and live video 
 streaming. 
+
  Amazon Quick Sight – Business Intelligence & Visualization -Amazon 
 Quick Sight is a cloud-powered BI tool for creating interactive dashboards 
 and reports. It helps organizations visualize data and uncover insights.
 
 VI. Mobile & Application Services 
 AWS provides tools to build, deploy, and manage mobile applications. 
- AWS Amplify – Full-stack mobile and web app development. 
- Amazon Cognito – User authentication and identity management. 
+ AWS Amplify – Full-stack mobile and web app development.
+
+ Amazon Cognito – User authentication and identity management.
+
  Amazon API Gateway – API management service. 
 Applications of AWS: 
 Amazon Web Services (AWS) provides a robust cloud platform that supports a 
