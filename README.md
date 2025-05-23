@@ -1,7 +1,8 @@
-Aim: 
+## Aim: 
 To create an AWS cloud account and explore its various services. 
-Procedure: 
-1. Create an AWS Account 
+## Procedure: 
+1. Create an AWS Account
+   
 ○ Go to AWS Official Website. 
 ○ Click on "Create an AWS Account" and enter the required details 
 (email, password, account name). 
@@ -9,7 +10,8 @@ Procedure:
 information. 
 ○ Complete identity verification using a phone number. 
 ○ Select a support plan (Free Tier recommended for beginners). 
-○ Log in to the AWS Management Console. 
+○ Log in to the AWS Management Console.
+ 
 2. Exploring AWS Services 
  
 ○ Navigate through the AWS Management Console to explore 
@@ -19,12 +21,13 @@ Networking, and Security.
 ○ Experiment with services like EC2 (Elastic Compute Cloud), S3 
 (Simple Storage Service), and RDS (Relational Database Service) 
 using Free Tier options. 
-AWS: 
+## AWS: 
 Amazon Web Services (AWS) is a cloud computing platform provided by 
 Amazon that offers a wide range of on-demand computing services. It allows 
 businesses and developers to use scalable and cost-effective infrastructure 
 without having to own physical hardware. AWS operates on a pay-as-you-go
 pricing model, meaning users only pay for what they use.
+
 i. Compute & Networking 
 These services provide cloud computing power and networking capabilities to 
 support scalable applications. They are also known as Infrastructure-as-a-Service 
@@ -56,6 +59,7 @@ scaled up or down based on their needs, without the need to manage
 underlying storage infrastructure. 
  Amazon S3 - Amazon Simple Storage Service (S3) is a cloud storage 
 service that lets users store and access data online 
+
 iii Database 
 AWS provides managed databases for different workloads, from relational to 
 NoSQL and data warehousing. 
@@ -69,11 +73,13 @@ spikes.
 ● Amazon Redshift – Cloud data warehouse for analytics. Business 
 intelligence (BI), data analysis, and big data processing. High 
 performance, integrates with BI tools, cost-effective for large datasets. 
+
 iv. Developer & DevOps Tools: 
 Services for building, deploying, and managing applications. 
  AWS Code Commit – Managed Git repository. 
  AWS Code Build – Continuous integration for building applications. 
- AWS Code Deploy – Automates application deployment. 
+ AWS Code Deploy – Automates application deployment.
+
 v) Analytics & AI in AWS: 
 A comprehensive set of capabilities for every analytics workload, optimized 
 for price performance and scale. 
@@ -87,7 +93,8 @@ commonly used for log analytics, IoT data processing, and live video
 streaming. 
  Amazon Quick Sight – Business Intelligence & Visualization -Amazon 
 Quick Sight is a cloud-powered BI tool for creating interactive dashboards 
-and reports. It helps organizations visualize data and uncover insights. 
+and reports. It helps organizations visualize data and uncover insights.
+
 VI. Mobile & Application Services 
 AWS provides tools to build, deploy, and manage mobile applications. 
  AWS Amplify – Full-stack mobile and web app development. 
@@ -141,11 +148,13 @@ troubleshoot issues.
 • Infrastructure as Code: AWS CloudFormation allows users to define and 
 provision AWS infrastructure using code, enabling version control and 
 automation. 
-Output: 
-Conclusion: 
+## Output: 
+![image](https://github.com/user-attachments/assets/3654d2b6-4411-4781-8168-fc9994e02da7)
+
+## Conclusion: 
 AWS provides a wide range of cloud services that enable businesses and 
 developers to build, deploy, and manage applications efficiently. Exploring 
 AWS services gives hands-on experience in cloud computing, storage, 
 networking, and security. 
-Result: 
+## Result: 
 Successfully created an AWS account and explored various AWS services
